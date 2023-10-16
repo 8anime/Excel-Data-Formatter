@@ -1,6 +1,11 @@
 # Excel Data Processing Tool
 
-The Excel Data Processing Tool is a Python script designed to streamline and automate the process of cleaning and formatting data in Excel files. It's especially useful for ensuring data quality, accuracy, and consistency when working with Excel datasets. This README provides an overview of how the tool works and how to use it.
+The Excel Data Processing Tool is a Python script designed to streamline and automate the process of cleaning and formatting data in Excel files. It's especially useful for ensuring data quality, accuracy, and consistency when working with Excel datasets.
+
+This tool has the following key features:
+- Removes specified delimiters (e.g., commas) from text-formatted numbers in Excel cells.
+- Converts text-formatted numbers into actual numeric values for accurate calculations and analysis.
+- The tool allows you to specify columns that should be widened to ensure data is displayed correctly in Excel.
 
 ## Features
 
